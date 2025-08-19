@@ -21,7 +21,8 @@ Worked in a collaborative team aand contributed toward creating a responsive and
 
 ## 🛠️ Tech Skills
 
-- **Languages:** HTML, CSS, JavaScript 
+- **Languages:** HTML, CSS, JavaScript
+- **Database: ** Mysql
 - **Frameworks & Libraries:** React, Tailwind (learning) , CSS
 - **Tools:** Git, GitHub, VS Code, Figma (for UI design)
 
