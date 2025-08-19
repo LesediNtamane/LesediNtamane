@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate front-end developer and UX design
 ## 💻 Projects I'm Proud Of
 
 ### 🌐 SkillUpZA – Web App for Skills Development  
-A responsive and user-friendly platform designed to help users find, track, and grow their skill sets.  
+Worked in a collaborative team aand contributed toward creating a responsive and user-friendly platform designed to help users find, track, and grow their skill sets.  
 **Tech stack:** HTML, CSS, JavaScript, React  
 **Highlights:**  
 - Built reusable components with React  
